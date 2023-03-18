@@ -1,0 +1,25 @@
+Patient ID: Is already in data
+Time_of_Day: we have to decide based on time
+	Criterai <12 morning 
+		     >12 <16 afternoon
+		     >16 <19 evening
+		     >19 <3
+day_of_week: deduced based on calender values
+year: given
+month:given
+time_since_beginning: ?
+week_day: bool value deduced from day
+quarter value: 1-4 based on time_of_day.
+glucose_level since beginning: cumulative values of glucose (we can take it per day or per patient record)
+excesize activity: based on difference in glucose levels per day
+more than usual excer
+less than usual excer
+unspecified special event: ?
+diabetic status since beginning: https://www.google.com/search?q=what+glucose+level+dictates+if+yu+have+high+diabetes&client=ubuntu-sn&hs=omS&channel=fs&sxsrf=AJOqlzWMvh2PrzQTZe8lo15vcdiZZ7v4gw%3A1679115427386&ei=o0QVZKeWF8_7kwXJjrfABw&ved=0ahUKEwjn89e02OT9AhXP_aQKHUnHDXgQ4dUDCA4&uact=5&oq=what+glucose+level+dictates+if+yu+have+high+diabetes&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCEQoAEQCjIHCCEQoAEQCjoKCAAQRxDWBBCwAzoECAAQRzoECCMQJzoFCAAQgAQ6BwgAEIAEEAo6CAgAEBYQHhAKOggIABAWEB4QDzoGCAAQFhAeOgcIIxDqAhAnOgUIABCRAjoECAAQQzoLCAAQgAQQsQMQgwE6CAgAEIAEELEDOgsILhCABBDHARDRAzoFCC4QgAQ6CAgAELEDEIMBOggILhCABBDUAjoFCAAQhgM6CgghEBYQHhAPEB06BAghEBU6BQghEKABOgcIABANEIAEOggIABAIEB4QDToICCEQFhAeEB06BgghEBUQCjoKCCEQFhAeEB0QCkoECEEYAFDlBVi3ZWCPZmgDcAJ4BIAB-gKIAdN5kgEHMi00Ni4xMJgBAKABAbABCsgBCMABAQ&sclient=gws-wiz-serp
+
+pre:breakfast
+pre:lunch
+pre supper
+pre snack
+do the same for post glucoe
+
