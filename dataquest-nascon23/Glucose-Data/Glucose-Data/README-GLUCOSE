@@ -1,0 +1,26 @@
+The GLUCOSE data sets in this directory are provided for use in 1994 
+AI in Medicine symposium submissions.
+
+
+Index:
+------
+
+* Data-Codes: a listing of the codes used in the data sets.
+
+* Domain-Description: This file describes the basic physiology and patho-
+physiology of diabetes mellitus and its treatment.
+
+* data-[01-70]: data sets covering several weeks' to months' worth of
+outpatient care on 60 patients.  An additional 10 sets will be made
+available two weeks prior to the symposium for interested parties.  Please
+contact the organizers if you would like to obtain these data sets.
+
+
+Methods:
+--------
+
+You do not need to use all the data in order to participate.  Use any 
+subset of the available data from either the ICU data set or the glucose
+data set.  Furthermore, do not feel constrained if your methods cannot 
+be applied directly to these data sets.
+
